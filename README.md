@@ -27,7 +27,6 @@ Here are a few things I’ve built or am actively working on:
 | Project | Description | Stack |
 |--------|-------------|-------|
 | **CodeCrate** | A CLI tool to instantly scaffold boilerplate code for popular frameworks | Node.js, TypeScript |
-| **API Atlas** | A REST & GraphQL API explorer that visualizes request flows and data structures | React, Express, MongoDB |
 | **Bugsy** | A lightweight bug tracking app with real-time collaboration | React, Firebase |
 
 
